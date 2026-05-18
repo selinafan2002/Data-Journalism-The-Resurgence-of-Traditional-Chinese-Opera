@@ -1,7 +1,7 @@
 # 📊 Data Journalism: The Resurgence of Traditional Chinese Opera
 # 📊 数据新闻：高楼丛中，戏台别处：传统戏曲的新生
 
-> **National First Prize Winner / 国奖一等奖作品** > *An interactive data-driven investigation into the rise, fall, and cloud-based revival of intangible cultural heritage.* > *一项关于非物质文化遗产兴衰与“云端”新生的交互式数据驱动调查。*
+> **National First Prize Winner / 国奖一等奖作品** > *An interactive data-driven investigation into the rise, fall, and cloud-based revival of intangible cultural heritage.* > *一项关于戏曲非物质文化遗产的兴衰演变与“云端”新生的交互式数据驱动调查。*
 
 🔗 **[🌐 Click Here to View the Live Project / 点击此处直接访问作品网页](https://g.h5gdsvip.com/p/lrsllhtx)**
 
